@@ -1,4 +1,4 @@
-### <div align="center">I'm yeonghun-Kim, a full-stack developer. working remotely since 2021 🚀</div>  
+### <div align="center">I'm yeonghun-Kim, a Back-end developer. This is where I record what I've studied. 🚀</div>  
   
 
 - 🔭 I’m currently working on [Github](https://github.com/dudgns2947)  
@@ -55,19 +55,11 @@
 
 
 
-
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudgns2947&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
 
   
 
