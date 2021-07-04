@@ -1,5 +1,5 @@
 ### <div align="center">👋 I'm yeonghun-Kim, a Back-end developer.</div>
-### <div align="center"><This is where I record what I've studied.></div>
+### This is where I record what I've studied.
   
 
 - 🎢 I’m currently working on [Github](https://github.com/dudgns2947)  
