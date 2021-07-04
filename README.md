@@ -1,4 +1,4 @@
-### <div align="center"👋 I'm yeonghun-Kim, a Back-end developer. This is where I record what I've studied. 🚀</div>  
+### <div align="center">👋 I'm yeonghun-Kim, a Back-end developer. This is where I record what I've studied. 🚀</div>  
   
 
 - 🎢 I’m currently working on [Github](https://github.com/dudgns2947)  
