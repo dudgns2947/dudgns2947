@@ -1,16 +1,16 @@
-### <div align="center">I'm yeonghun-Kim, a Back-end developer. This is where I record what I've studied. 🚀</div>  
+### <div align="center"👋 I'm yeonghun-Kim, a Back-end developer. This is where I record what I've studied. 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github](https://github.com/dudgns2947)  
+- 🎢 I’m currently working on [Github](https://github.com/dudgns2947)  
   
 
-- 🌱 I’m currently learning Typescript and NestJS  
+- 📝 I’m currently learning Typescript and NestJS  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Contact Me : dudgns2947@gmail.com  
+- 🎈 Contact Me : dudgns2947@gmail.com  
   
 
 <br/>  
@@ -34,7 +34,7 @@
 ## Tech Stack
 <table><tr><td valign="top" width="90%">
 
-### 📊My Skill Set  
+### 📊 My Skill Set  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="80" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="80" />  
