@@ -1,4 +1,4 @@
-### <div align="center">👋 I'm yeonghun-Kim, a Back-end developer.</div>
+### <div align="center">👋 I'm yeonghun-Kim, I want to be a full-stack developer.</div>
 
 - 💻 This is where I record what I've studied.  
 
