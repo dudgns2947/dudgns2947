@@ -8,7 +8,7 @@
 - 📝 I’m currently learning Typescript and NestJS  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ KaKaoTalk : everkin
   
 
 - 🎈 Contact Me : dudgns2947@gmail.com  
