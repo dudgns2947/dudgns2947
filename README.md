@@ -8,7 +8,7 @@
 - 📝 I’m currently learning Typescript and NestJS  
   
 
-- ❓ KaKaoTalk : everkin
+- ❓ KaKaoTalk ID : everkin
   
 
 - 🎈 Contact Me : dudgns2947@gmail.com  
