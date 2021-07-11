@@ -42,8 +42,9 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="80" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="80" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="100" />
+<img style="martgin: 10px" src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvelog.io%2F%40ppohee%2FJest-%25EB%25A1%259C-%25ED%2585%258C%25EC%258A%25A4%25ED%258A%25B8-%25EC%25BD%2594%25EB%2593%259C-%25EC%259E%2591%25EC%2584%25B1%25ED%2595%2598%25EA%25B8%25B0&psig=AOvVaw3yqfeNBy3SraXJ4OmFATqD&ust=1626101344928000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKjO-9uh2_ECFQAAAAAdAAAAABAD" alt="Jest" height="80"/>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="80" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="80" />    
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="80" />
 </div>
 
 
