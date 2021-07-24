@@ -41,8 +41,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="100" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="80" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="80" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="80" />
-<img style="martgin: 10px" src ="https://media.vlpt.us/images/ppohee/post/b160a004-f662-4b5a-b1e0-06252ccce1c0/jestlogo.png" alt="Jest" height="80"/>
+<img style="margin: 10px 15px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="80" />
+<img style="margin: 10px" src ="https://media.vlpt.us/images/ppohee/post/b160a004-f662-4b5a-b1e0-06252ccce1c0/jestlogo.png" alt="Jest" height="80"/>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="80" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="80" />
 </div>
