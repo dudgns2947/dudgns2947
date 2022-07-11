@@ -81,6 +81,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="60" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="60" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="60" />  
+<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg" alt="Notion" height="60" />  
+<img style="margin: 10px" src="https://exchange.icinga.com/seffparker/icinga2-slack-notification/logo" alt="Slack" height="60" />  
 </div>
 
 </td></tr></table>  
