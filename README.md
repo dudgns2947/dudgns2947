@@ -28,7 +28,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://hub.docker.com/u/dudgns2947" target ="_blank">
-<img src="https://img.shields.io/badge/Docker-%2496ED?style=flat-square&logo=Docker&logoColor=white style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/Docker-%2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white alt=Docker style="margin-bottom: 5px;"/>
 </a>
 
 </div>  
