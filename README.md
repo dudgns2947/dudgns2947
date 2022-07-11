@@ -49,6 +49,7 @@
 <img style="margin: 10px" src ="https://media.vlpt.us/images/ppohee/post/b160a004-f662-4b5a-b1e0-06252ccce1c0/jestlogo.png" alt="Jest" height="80"/>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="80" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="80" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/Docker-original-wordmark.svg" alt="Docker" height="80" />
 </div>
 
 
